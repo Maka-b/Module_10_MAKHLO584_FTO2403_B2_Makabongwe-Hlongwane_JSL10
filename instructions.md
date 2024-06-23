@@ -25,6 +25,8 @@ The Escape Vanilla JS Challenge is an interactive web-based project designed to 
 2. Find the book with the most recent publication date.
 3. Display the title of this book as the key to proceed.
 
+
+
 ##### Room 2: The Set Chamber
 
 **Scenario:** You encounter a chamber with two magical sets representing essential JavaScript and React concepts. To unlock the door, you must find the intersection of these sets, symbolizing the shared knowledge required for both Vanilla JavaScript and React.
